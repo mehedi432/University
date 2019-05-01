@@ -1,0 +1,21 @@
+body {
+  padding-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1.6pt;
+}
+
+#logo{
+  font-weight: 900;
+  font-size: large;
+  letter-spacing: 1.6pt;
+}
+
+#main-header{
+  font-weight: 700;
+  letter-spacing: 1.6pt;
+}
+#navbar-gap {
+  margin-top: -4%;
+}
+
+
